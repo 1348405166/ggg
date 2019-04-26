@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Light Theme</title>
+<link href="css/singlePageTemplate.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header> <a href="">
+    <h4 class="logo">开心呀</h4>
+    </a>
+    <nav>
+      <ul>
+        <li><a href="#hero">HOME</a></li>
+        <li><a href="#about">ABOUT</a></li>
+        <li> <a href="#contact">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+    <h2 class="hero_header">HERO <span class="light">TOMORROW</span></h2>
+    <p class="tagline">Light is a simple one page website</p>
+  </section>
+  <!-- About Section -->
+  <section class="about" id="about">
+    <h2 class="hidden">About</h2>
+    <p class="text_column">人生就像马拉松，获胜的关键不在于瞬间的爆发，而在于途中的坚持。你纵有千百个理由放弃，也要给自己找一个坚持下去的理由。很多时候，成功就是多坚持一分钟，这一分钟不放弃，下一分钟就会有希望。只是我们不知道，这一分钟会在什么时候出现。再苦再累，只要坚持走下去，属于你的风景终会出现。 </p>
+    <p class="text_column">喜欢抱怨，烦恼就越来越多；喜欢知足，快乐就越来越多；喜欢逃避，失败就越来越多；喜欢分享，朋友就越来越多；喜欢生气，疾病就越来越多；喜欢占便宜，贫穷就越来越多；喜欢布施财，富贵就越来越多；喜欢付出，福报就越来越多；喜欢感恩，顺利就越来越多；喜欢助人，贵人就越来越多。 </p>
+    <p class="text_column">面对是非，少说多听才能明白原委；置身喧嚣，人进我退才不会迷失自我。口，不能随心，得有尺度；欲，不能随性，得有节制。尘世的喧嚣，皆因人心；世间的浮躁，皆因人言。寡言是一种境界，更是一种修养，静下来，才能听到最真的声音。 </p>
+  </section>
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail">
+      <h1 class="stats">1500</h1>
+      <h4>TITLE</h4>
+      <p>One line description</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">2300</h1>
+      <h4>TITLE</h4>
+      <p>One line description</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">7500</h1>
+      <h4>TITLE</h4>
+      <p>One line description</p>
+    </div>
+    <div class="thumbnail">
+      <h1 class="stats">9870</h1>
+      <h4>TITLE</h4>
+      <p>One line description</p>
+    </div>
+  </div>
+  <!-- Parallax Section -->
+  <section class="banner">
+    <h2 class="parallax">开心之家</h2>
+    <p class="parallax_description">你若安好，便是晴天。世界会向那些有目标和远见的人让路。世界上没有快乐的地方，只有快乐的人。</p>
+  </section>
+  <!-- More Info Section -->
+  <footer>
+    <article class="footer_column">
+      <h3>金毛</h3>
+      <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1492429356,89189691&fm=27&gp=0.jpg" alt="" width="400" height="200" class="cards"/>
+      <p> 金毛寻回犬是最常见的家犬之一，它很容易养，有耐心并且对主人要求不多，只要定期运动，食物和兽医体检就可以了。它属于匀称、有力、活泼的一个犬种，特征是稳固、身体各部位配合合理，腿既不太长也不笨拙，表情友善，个性热情、机警、自信而且不怕生，性格讨人喜欢。金毛犬最早是一种寻回猎犬，现在大多作为导盲犬与宠物狗。 </p>
+    </article>
+    <article class="footer_column">
+      <h3>柴犬</h3>
+      <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1404604297,2157591146&fm=26&gp=0.jpg" alt="" width="400" height="200" class="cards"/>
+      <p> 柴犬是体型中等并且又最古老的犬。柴犬能够应付陡峭的丘陵和山脉的斜坡，拥有灵敏的感官，使得柴犬屡次成为上乘的狩猎犬。柴犬性格活泼、好动。对自己喜欢的玩具、会一天到晚的把玩。其对外有极强警惕性，能为户主看家护院。其特别是对大型同类，并且不服输。草丛中的耗子、鸟都会是它的猎物及玩具。 </p>
+    </article>
+  </footer>
+  <!-- Footer Section -->
+  <section class="footer_banner" id="contact">
+    <h2 class="hidden">Footer Banner Section </h2>
+    <p class="hero_header">FOR THE HAPPY DAYS &amp; UPDATES</p>
+    <div class="button">subscribe</div>
+  </section>
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2019 - <strong>韦思超</strong></div>
+</div>
+<!-- Main Container Ends -->
+</body>
+</html>
